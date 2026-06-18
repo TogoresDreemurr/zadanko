@@ -1,1 +1,1 @@
-print("hejo")
+x = 1
