@@ -1,1 +1,1 @@
-print("hejo")
+y = 2
