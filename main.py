@@ -1,1 +1,1 @@
-print("hejo")
+print("1")
